@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DraftKings.BooksApi.E2E", "src\DraftKings.BooksApi.E2E\DraftKings.BooksApi.E2E.csproj", "{C43150FD-0885-4A7A-A5F9-0FCDD67DB539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C43150FD-0885-4A7A-A5F9-0FCDD67DB539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43150FD-0885-4A7A-A5F9-0FCDD67DB539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43150FD-0885-4A7A-A5F9-0FCDD67DB539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43150FD-0885-4A7A-A5F9-0FCDD67DB539}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89E4E5FC-9515-4553-A55E-070531458B69}
+	EndGlobalSection
+EndGlobal

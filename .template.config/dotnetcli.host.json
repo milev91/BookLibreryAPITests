@@ -1,0 +1,12 @@
+{
+    "symbolInfo": {
+        "e2e-name": {
+            "longName": "e2e-project-name",
+            "shortName": "name"
+        },
+        "unitName": {
+            "longName": "unit-name",
+            "shortName": "unit"
+        }
+    }
+}

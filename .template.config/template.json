@@ -1,0 +1,32 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Rahat",
+    "classifications": [
+        "DraftKings",
+        "Test",
+        "NUnit"
+    ],
+    "identity": "DraftKings E2E Test Solution",
+    "name": "DraftKings.Specflow.E2E",
+    "shortName": "e2e",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "symbols": {
+        "e2e-name": {
+            "type": "parameter",
+            "isRequired": true,
+            "description": "E2E solution Name.",
+            "replaces": "_E2EName_",
+            "fileRename": "_E2EName_"
+        },
+        "unitName": {
+            "type": "parameter",
+            "isRequired": true,
+            "description": "Owner of the project.",
+            "replaces": "_UnitName_",
+            "fileRename": "_UnitName_"
+        }
+    }
+}
